@@ -1,0 +1,11 @@
+{
+    "name": "InboxFolder",
+    "alias": "inboxfolder",
+    "description": "Adds a unified Inbox folder at the top of the sidebar showing all active conversations in one place.",
+    "version": "1.0.0",
+    "active": 1,
+    "detached": true,
+    "providers": [
+        "Modules\\InboxFolder\\Providers\\InboxFolderServiceProvider"
+    ]
+}
